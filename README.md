@@ -1,6 +1,6 @@
 # TinyML
 
-#Commands to start ML 
+# Commands to start ML 
 
 #python -m flash run
 
