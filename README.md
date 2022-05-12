@@ -1,7 +1,8 @@
 
-
+# Dependencies
+Python, flask, go, sklearn
 # Commands to start ML 
-python -m flash run
+python -m flask run
 
 # Command to start server
   go run main.go
